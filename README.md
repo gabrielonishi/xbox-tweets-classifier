@@ -2,6 +2,10 @@
 
 Este repositório contém um projeto de classificação de tweets relacionados à marca Xbox usando técnicas de aprendizado de máquina. O objetivo é criar um modelo capaz de classificar automaticamente tweets como relevantes ou não para a Microsoft. Considerou-se tweets relevantes aqueles com reclamações ou elogios ao produto, informações úteis para a empresa se guiar. Feito como Projeto 1 da disciplina Ciência de Dados, do 2° semestre de Engenharia de Computação do Insper.
 
+## Equipe
+
+ - [Gabriel Onishi](https://github.com/gabrielonishi?tab=repositories)
+ - [Rodrigo Faia](https://github.com/FaiaxR)
 ## Descrição
 
 O projeto consiste em coletar um conjunto de tweets que mencionam o Xbox, pré-processar os dados, treinar um modelo de aprendizado de máquina e avaliar sua capacidade de classificar corretamente novos tweets.
